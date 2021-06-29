@@ -1,0 +1,199 @@
+﻿#bloco-cabecalho {
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+
+#bloco-titulo-principal {
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#hd-principal {
+	position: relative;
+	display: block;
+	text-align: center;
+	font-size: 50px;
+}
+
+#titulo-principal {
+	font-size: 30px;
+	margin-top: 15px;
+	background:	#D3D3D3;
+	border-radius: 20px;
+	margin: 20px;
+	padding: 25px;
+}
+
+#materia1-recuperados-mundo {
+	position: relative;
+	display: inline-block;
+}
+
+body {
+	font-family: 'Montserrat', sans-serif;
+	background: url(img/body.jpg);
+}
+
+header {
+	background: url(img/hd.jpg);
+	padding: 4px;
+	margin-bottom: 5px;
+	font-weight: bold;
+}
+
+main {
+	width: 1215px;
+	margin: 0 auto;
+}
+
+strong {
+	font-weight: bold;
+}
+
+.titulo-materia {
+	font-size: 20px;
+	font-weight: bold;
+	padding: 30px;
+	margin: 20px 120px;
+	text-align: center;
+	background: #808080;
+	border-radius: 20px;
+}
+
+.espaço-foto {
+	margin: 20px 120px;
+	width: 580px;
+	height: 170px;
+	border: 2px solid black;
+}
+
+.espaco-foto-vamos-vacinar {
+	width: 700px;
+	height: 150px;
+	border: 2px solid black;"
+}
+
+#imgvacina {
+	margin: 20px 120px;
+	width: 580px;
+	height: 170px;
+	border: 2px solid black;
+}
+
+.materia {	
+	text-align: justify;
+	font-size: 14px;
+	margin: 0 120px;
+}
+
+.espaço-materia {
+	border: 2px solid gray;
+	margin: 0 105px;
+	width: 1015px;
+	height: 220px;
+}
+
+#img1 {
+	margin: 20px 120px;
+	width: 578px;
+	border: 2px solid black;
+}
+
+#img1-2 {
+	margin: 20px 120px;
+	width: 580px;
+}
+
+#img2 {
+	width: 450px;
+	height: 321px;
+	border: 2px solid black;
+}
+
+iframe {
+	width: 450px; 
+	height: 321px;
+	margin-top: 20px;
+}
+
+.bloco-video {
+	position: relative;
+	text-align: center;
+	background:	#D3D3D3;
+	border-radius: 20px;
+	margin: 20px 115px;
+	padding: 30px;
+
+}
+
+.topicos {
+	margin: 12px 170px;
+}
+
+#despedida {
+	font-size: 30px;
+	font-weight: bold;
+	background:	#D3D3D3;
+	border-radius: 20px;
+	margin: 10px 140px 0 140px ;
+	padding: 25px;
+	text-align: center;
+}
+
+footer {
+	background: url("img/body.jpg");
+	font-weight: bold;
+	text-align: center;
+	font-size: 40px;
+	padding: 2px;
+	position: relative;
+}
+
+.copyright {
+	font-size: 13px;
+}
+
+.conti, .conti2, .conti3, .conti4, .conti5 {
+	display: none;
+}
+
+.btn {
+	text-align: center;
+	margin: 10px 0;
+} 
+
+button {
+	padding: 10px;
+	background: #D3D3D3;
+	color: black;
+	border: none;
+	border-radius: 2px;
+	box-shadow: 0 6px 0 #B2B2B2;
+	cursor: pointer;
+
+}
+
+button:hover {
+	background: #C2C1C1;
+	box-shadow: 0 6px 0 #9A9A9A;
+}
+
+button:active {
+	position: relative;
+	top: 5px;
+	box-shadow: none;
+}
+
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 5px auto 40px auto;
+    background-color: white;
+    border-radius: 50px;
+    border: white solid  2px;
+}
